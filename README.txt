@@ -4,8 +4,7 @@
 
 ---
 
-## 👨‍💻 About the Author
-My name is **Alexander Farsiev**, and I am a **15-year-old** independent developer. 
+## 👨‍💻 About the Author
 I created NeuroBeads to prove that AI can be efficient, private, and biologically inspired without requiring massive GPU clusters. This project is my vision of the future where AI is accessible on every small device.
 
 ---
